@@ -170,7 +170,7 @@ int Int::init_(const int& x)
 }//init_(const int& x)
 
 
-/* 逻辑运算 */
+/* 关系运算 */
 /* 等于 == */
 //若this与参数相等 返回1， 否则返回0
 bool Int::equal_(const Int& obj)

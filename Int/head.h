@@ -1,5 +1,5 @@
-#ifndef __HEAD_H__
-#define __HEAD_H__
+#ifndef __head_H__
+#define __head_H__
 /* 外部包含用 通用头文件 */
 
 
@@ -8,4 +8,4 @@ using namespace std;
 
 
 
-#endif //#ifndef __HEAD_H__
+#endif //#ifndef __head_H__

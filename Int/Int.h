@@ -66,7 +66,7 @@ public:
 
 
 public:
-	/* 逻辑运算 */
+	/* 关系运算 */
 	/* 等于 == */
 	//若this与参数相等 返回1， 否则返回0
 	bool equal_(const Int& obj);//基础方法
